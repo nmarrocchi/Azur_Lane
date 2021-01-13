@@ -19,3 +19,33 @@
 .menu ul li:hover {
     background-color: #2CB0C8;
 }
+
+.LogMenu {
+    width: 15%;
+    margin: auto;
+    padding: 0.5%;
+    text-align: center;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.LogMenu ul {
+    padding: 0%;
+}
+
+.LogMenu li {
+    list-style-type: none;
+    display: inline-block;
+    margin: auto 5%;
+}
+
+.LogMenu input{
+    border-radius:12px 0 12px 0;
+    background: #f5f5f5;
+    border:none;
+    color:#555;
+    font:bold 12px Verdana;
+    padding:9px;
+    margin: auto 1%;
+}
