@@ -1,0 +1,42 @@
+/*  Div qui contient toutes les informations d'un personnages   */
+.Ships{
+    padding: 0%;
+    display: inline-block;
+    margin: 1% 2%;
+    border: solid #444 2px;
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+.Ships_Infos_Table{
+    margin: 0%;
+    padding: 0%;
+    border-radius: 10px;
+    overflow: hidden;
+    border-collapse: collapse;
+}
+
+.Ships_Name{
+    background-color: #444;
+    font-size: large;
+    color: white;
+}
+
+.Ships_Name p {
+    margin: 4% 0%;
+}
+
+.Ships_Icon{
+    margin: 0%;
+    padding: 0%;
+}
+
+.Ships_Type{
+    float: left;
+    position: absolute;
+    margin: 5px;
+}
+
+.Ships_Img{
+    vertical-align: middle;
+}

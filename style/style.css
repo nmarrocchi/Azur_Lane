@@ -13,3 +13,8 @@ html{
     background-repeat: no-repeat;
     background-attachment: scroll;
 }
+
+.Content{
+    margin: 5% 0%;
+    text-align: center;
+}
